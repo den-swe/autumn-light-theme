@@ -1,8 +1,23 @@
 {
-  "name": "theme",
-  "displayName": "Autumn Theme",
-  "description": "light theme",
-  "version": "0.0.1",
+  "name": "autumn-theme-light",
+  "displayName": "Autumn Theme (Light)",
+  "description": "Autumn Light Theme with cursive font",
+  "version": "1.0.0",
+  "publisher": "den-swe",
+  "icon": "images/autumn.png",
+  "repository": {
+    "url": "https://github.com/den-swe/autumn-light-theme",
+    "type": "git"
+  },
+  "keywords": [
+    "theme",
+    "light theme",
+    "autumn",
+    "autumn theme",
+    "den-swe",
+    "cursive",
+    "italic"
+  ],
   "engines": {
     "vscode": "^1.103.0"
   },
