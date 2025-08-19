@@ -69,7 +69,7 @@ Operator Mono does):
 - entity.other.attribute-name
 - comment.block
 
-Furthermore, there are Ligatures available in Fira Code that we want to use. For
+Furthermore, there are Ligatures available in Fira Dank that we want to use. For
 that the theme defines specific rules:
 
 - storage.type.function.arrow
