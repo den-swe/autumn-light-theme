@@ -1014,7 +1014,8 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#906529",
+        "fontStyle": "underline"
       }
     },
     {
@@ -1028,21 +1029,24 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#624234",
+        "fontStyle": "underline"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#624234",
+        "fontStyle": "underline"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#624234",
+        "fontStyle": "underline"
       }
     },
     {
@@ -1840,6 +1844,7 @@
         "foreground": "#4f3212"
       }
     },
+
     {
       "name": "js/ts italic",
       "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
@@ -1945,10 +1950,11 @@
     "textLink.foreground": "#219627",
     "editor.background": "#fffefd",
     "editor.foreground": "#624234",
+    "editor.selectionForeground": "#624234",
     "editorLineNumber.foreground": "#04680a",
     "editorCursor.foreground": "#019ebcdf",
     "editorCursor.background": "#ffffff",
-    "editor.selectionBackground": "#53b80050",
+    "editor.selectionBackground": "#624234",
     "editor.inactiveSelectionBackground": "#4dab006c",
     "editorWhitespace.foreground": "#0087ff",
     "editor.selectionHighlightBackground": "#53b80050",
