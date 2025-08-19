@@ -1871,7 +1871,7 @@
   ],
   "colors": {
     "foreground": "#c08657",
-    "focusBorder": "#e08f5e",
+    "focusBorder": "#00000000",
     "selection.background": "#f6d8b6",
     "scrollbar.shadow": "#cdab8b",
     "activityBar.foreground": "#ab6e33",
