@@ -5,7 +5,7 @@
      alt="Autumn Light Theme logo">
   </div>
 </div>
-<h1 align="center">Autumn Light Theme (Cursive)</h1>
+<h1 align="center">Autumn Light Theme (Cursive) by Deniz Ege M3111</h1>
 <h3 align="center" style="border:none">
 The theme is assembled thanks to the colors from Autumn Theme (jb). 
   A combination of cursive font and FiraDank Font.</h3>
